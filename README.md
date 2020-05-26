@@ -15,7 +15,7 @@ The overall guide will be written in the structure of *breakdowns*. Just as the 
 
 A player can only improve his/her game by making changes in how he/she behaves either inside of it (direct impact), or outside of it (indirect impact). Strict *MECE'ness* is an ideal to strive for, however, it is not always optimal to follow it to the letter, and the reader might notice that in some places, breakdowns will not be entirely *MECE*. 
 
-The guide will then seek to explain each area as scientifically as possible, seeking to learn and understand how it works to enlighten and educate. Many areas of the scientific world will be visited, and it is the hope for the author that the reader will not only grow in respect to his/her ingame performance, but that curiousity will be sparked and the reader will be motivated to seek out his/her own answers, and discover new exciting insights that can be shared with the community. 
+The guide will then seek to explain each area as scientifically as possible, seeking to learn and understand how it works to enlighten and educate. Many areas of the scientific world will be visited, and it is the hope of the author that the reader will not only grow in respect to his/her ingame performance, but that curiousity will be sparked and the reader will be motivated to seek out his/her own answers, and discover new exciting insights that can be shared with the community. 
 
 Should the reader notice some issues with the logic, have suggestions for additional topics or in any way want to contact the author, please use the link found below. 
 
@@ -41,7 +41,7 @@ To increase transparency of the areas to be described in this guide, each will c
 In general, the words written here will be based on four main fountains of knowledge:
 
 1. The author's experience from 15 years of gaming, and for some years at a high level too! 
-2. The author's background from University and the Industry
+2. The author's background from working in the Industry and from many years at University
 3. Peer-reviewed scientific articles when available
 4. Content from CSGO personas such as YouTube content creators, professional players, analysts, organizations etc. 
 
