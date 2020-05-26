@@ -56,3 +56,8 @@ Although the main purpose of this guide is to *Teach for Understanding* such tha
 I deerly hope that you will be inspired by this guide and help to better it as a community effort. Nothing is perfect when first created, and neither will this guide, so please reach out with any and all suggestions. Additionally, if you would like this guide to be featured as a video series, please do let it be known. 
 
 Finally, it must be said that this guide will forever and always be free and open for all. Even the very source of the website, hosted through github.pages using Jekyll, is available through the github link previously provided. 
+
+Thank you for your time, now please enjoy the guide!
+
+![](images/neoblack.png?raw=true "neo CSGO guide")
+
