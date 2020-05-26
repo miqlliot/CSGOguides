@@ -7,14 +7,19 @@ As a result, the reader should not expect to be taught specific information such
 
 ## Methodology
 
-The overall guide will be written in the structure of *breakdowns*. Just as the physicist breaks down molecules into atoms, atoms into particles, and particles into quarks; Just so will this guide breakdown the many areas a player most consider when wanting to improve their game. The breakdowns will follow the *MECE* standard; when breaking down an area the parts will be *mutually exclusive*, i.e. not overlap, and they will be *collectively exhaustive*, i.e. not forget an important part of the area. As an example, consider the top-level breakdown below which creates the top-level structure that you will find in the table of contents on the left. 
+### Breakdowns
+
+The overall guide will be written in the structure of *breakdowns*. Just as the physicist breaks down molecules into atoms, atoms into particles, and particles into quarks; Just so will this guide breakdown the many areas a player must consider when wanting to improve their game. The breakdowns will follow the *MECE* standard; when breaking down an area the parts will be *mutually exclusive*, i.e. not overlap, and they will be *collectively exhaustive*, i.e. not forget an important part of the area. As an example, consider the breakdown below which creates the top-level structure that you will find in the table of contents on the left. 
 
 ![](images/breakdown_upper.png?raw=true "Initial breakdown and structure of guide")
 
-A player can only improve her game by making changes in how she behaves either inside of it (direct impact), or outside of it (indirect impact). Strict *MECE'ness* is an ideal to strive for, however, it is not always ideal to follow the standard to the letter, and the reader might notice that some places breakdowns will not be entirely *MECE* in order to improve readability. Should the reader notice some issues with the logic, have suggestions for additional topics or in any way want to contact the author, please use the link found below. 
+A player can only improve his/her game by making changes in how he/she behaves either inside of it (direct impact), or outside of it (indirect impact). Strict *MECE'ness* is an ideal to strive for, however, it is not always optimal to follow it to the letter, and the reader might notice that in some places, breakdowns will not be entirely *MECE*. Should the reader notice some issues with the logic, have suggestions for additional topics or in any way want to contact the author, please use the link found below. 
 
 [Report issue](https://github.com/miqlliot/CSGOguides/issues){: .btn .btn-purple }
 
+### Impacts
+
+Undoubtly some areas have a greater impact than others on the skill of the player, as such, each area will be labeled clearly whether the author believes it to be: Low impact{: .label .label-green }, Medium impact{: .label .label-yellow } or High impact{: .label .label-red}
 
 
 1. Aim of the site  
