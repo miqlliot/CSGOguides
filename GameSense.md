@@ -6,6 +6,7 @@ nav_order: 1
 
 # Gamesense
 Here an introduction to gamesense will be written together with an indicator whether is low, medium or high impact in terms of skill. 
+_____
 ## Definition
 Here we will provide a nice definition of gamesense
 ## Breakdown
