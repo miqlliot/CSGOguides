@@ -50,3 +50,9 @@ In general, the words written here will be based on four main fountains of knowl
 Although the main purpose of this guide is to *Teach for Understanding* such that the player him or herself can come up with ways of improving, the guide would not be completed without some suggestions. As such, after thorough understanding of each area has been established, suggestions for how to improve within those areas will be discussed. However, additional ideas from the community is most welcome and can likewise be reported using the link below:
 
 [Suggest ideas](https://github.com/miqlliot/CSGOguides/issues){: .btn .btn-purple }
+
+## Ending remarks
+
+I deerly hope that you will be inspired by this guide and help to better it as a community effort. Nothing is perfect when first created, and neither will this guide, so please reach out with any and all suggestions. Additionally, if you would like this guide to be featured as a video series, please do let it be known. 
+
+Finally, it must be said that this guide will forever and always be free and open for all. Even the very source of the website, hosted through github.pages using Jekyll, is available through the github link previously provided. 
