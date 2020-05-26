@@ -13,34 +13,40 @@ The overall guide will be written in the structure of *breakdowns*. Just as the 
 
 ![](images/breakdown_upper.png?raw=true "Initial breakdown and structure of guide")
 
-A player can only improve his/her game by making changes in how he/she behaves either inside of it (direct impact), or outside of it (indirect impact). Strict *MECE'ness* is an ideal to strive for, however, it is not always optimal to follow it to the letter, and the reader might notice that in some places, breakdowns will not be entirely *MECE*. Should the reader notice some issues with the logic, have suggestions for additional topics or in any way want to contact the author, please use the link found below. 
+A player can only improve his/her game by making changes in how he/she behaves either inside of it (direct impact), or outside of it (indirect impact). Strict *MECE'ness* is an ideal to strive for, however, it is not always optimal to follow it to the letter, and the reader might notice that in some places, breakdowns will not be entirely *MECE*. 
+
+The guide will then seek to explain each area as scientifically as possible, seeking to learn and understand how it works to enlighten and educate. Many areas of the scientific world will be visited, and it is the hope for the author that the reader will not only grow in respect to his/her ingame performance, but that curiousity will be sparked and the reader will be motivated to seek out his/her own answers, and discover new exciting insights that can be shared with the community. 
+
+Should the reader notice some issues with the logic, have suggestions for additional topics or in any way want to contact the author, please use the link found below. 
 
 [Report issue](https://github.com/miqlliot/CSGOguides/issues){: .btn .btn-purple }
 
 ### Impacts
 
-Undoubtly some areas have a greater impact than others on the skill of the player, as such, each area will be labeled clearly whether the author believes it to be: 
+Undoubtly some areas have a greater impact than others on the skill of the player, as such, each area will be labeled clearly whether the author believes it to be one of: 
 
 Low impact
 {: .label .label-green }
-,
+
 Medium impact
 {: .label .label-yellow }
-or
+
 High impact
 {: .label .label-red}
 
+### Litterature study
 
-1. Aim of the site  
-1. Describe structure of guides
-    1. Define area to be investigated 
-    1. Define impact on skill
-    1. Litterature study
-    1. Breakdown
-    1. Understand each breakdown aspect
-    1. Summarise breakdowns
-    1. Learn how to improve on the area
-    1. Summary 
-1. Break down CSGO skills into categories
-1. About me
+To increase transparency of the areas to be described in this guide, each will contain a somewhat extensive litterature study by the end of the chapter. The litterature study will look at what existing information is present within the area discussed, and provide a brief description of the key-takeaways from the video/article together with a couple of comments by the author. The litterature marks the research that has been done initially by the author, but has been placed by the end as to not disrupt the purpose of the guide, but still be available for those that are interested. 
 
+In general, the words written here will be based on four main fountains of knowledge:
+
+1. The author's experience from 15 years of gaming, and for some years at a high level too! 
+2. The author's background from University and the Industry
+3. Peer-reviewed scientific articles when available
+4. Content from CSGO personas such as YouTube content creators, professional players, analysts, organizations etc. 
+
+### Improvements
+
+Although the main purpose of this guide is to *Teach for Understanding* such that the player him or herself can come up with ways of improving, the guide would not be completed without some suggestions. As such, after thorough understanding of each area has been established, suggestions for how to improve within those areas will be discussed. However, additional ideas from the community is most welcome and can likewise be reported using the link below:
+
+[Suggest ideas](https://github.com/miqlliot/CSGOguides/issues){: .btn .btn-purple }
