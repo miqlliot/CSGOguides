@@ -1,6 +1,12 @@
 ---
-title: Inside the game
-parent: Introduction
+title: Test
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
+
+# Another page
+
+Test this
+
+
+blah
