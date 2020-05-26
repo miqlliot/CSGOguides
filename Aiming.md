@@ -4,5 +4,5 @@ parent: Inside the game
 nav_order: 3
 ---
 
-# Inside the game
+# Aiming
 Explain here what will be gone over here. 
