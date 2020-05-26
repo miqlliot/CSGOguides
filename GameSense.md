@@ -17,8 +17,6 @@ Knowing where opponents are at a given time.
 Knowing how long it takes to get from A to B
 ### Decisions
 Knowing what decisions a player at a position makes
-### Economy
-Understanding the economy of the oponents 
 ## Putting it all together
 Here the breakdowns will be summarised into a bigger picture
 ## Improve your gamesense
