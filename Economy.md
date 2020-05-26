@@ -4,5 +4,5 @@ parent: Inside the game
 nav_order: 6
 ---
 
-# Inside the game
+# Economy
 Explain here what will be gone over here. 
