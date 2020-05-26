@@ -23,10 +23,10 @@ Undoubtly some areas have a greater impact than others on the skill of the playe
 
 Low impact
 {: .label .label-green }
-
+,
 Medium impact
 {: .label .label-yellow }
-
+or
 High impact
 {: .label .label-red}
 
