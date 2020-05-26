@@ -4,5 +4,5 @@ parent: Inside the game
 nav_order: 1
 ---
 
-# Inside the game
+# Game sense
 Explain here what will be gone over here. 
