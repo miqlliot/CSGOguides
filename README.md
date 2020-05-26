@@ -11,6 +11,7 @@ The overall guide will be written in the structure of *breakdowns*. Just as the 
 
 ![](images/breakdown_upper.png?raw=true "Initial breakdown and structure of guide")
 
+A player can only improve her game by making changes in how she behaves either inside of it (direct impact), or outside of it (indirect impact). Unless the player has access to some fourth dimensions, there exists no other areas of improvement than these. This is a MECE breakdown. 
 
 1. Aim of the site  
 1. Describe structure of guides
