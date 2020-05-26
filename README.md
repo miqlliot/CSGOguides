@@ -19,7 +19,16 @@ A player can only improve his/her game by making changes in how he/she behaves e
 
 ### Impacts
 
-Undoubtly some areas have a greater impact than others on the skill of the player, as such, each area will be labeled clearly whether the author believes it to be: Low impact{: .label .label-green }, Medium impact{: .label .label-yellow } or High impact{: .label .label-red}
+Undoubtly some areas have a greater impact than others on the skill of the player, as such, each area will be labeled clearly whether the author believes it to be: 
+
+Low impact
+{: .label .label-green }
+
+Medium impact
+{: .label .label-yellow }
+
+High impact
+{: .label .label-red}
 
 
 1. Aim of the site  
